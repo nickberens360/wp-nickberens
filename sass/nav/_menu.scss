@@ -1,0 +1,94 @@
+.menu-toggle{
+	z-index: 110;
+	text-align:left;
+	width:75px;
+	text-align:center;
+	font-size: 44px;
+	line-height:1.5;
+	cursor:pointer;
+	background: rgba(84, 145, 252, 1);
+	transition: all .25s;
+	padding: 20px 25px;
+}
+.menu-toggle:hover{
+	background: rgba(84, 145, 252, 1);
+}
+.menu-toggle span{
+	border: 2px solid rgba(255, 255, 255, 0.7);
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+	-webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: all .75s;
+  transition: all .75;
+}
+
+
+
+.menu-toggle.toggle-open .toggle-f {
+  display: none;
+}
+
+.menu-toggle.toggle-open .toggle-m {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: relative;
+  top: 8px;
+}
+
+.menu-toggle.toggle-open .toggle-l {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  position: relative;
+  top: -1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu-container{
+	position:fixed;
+	z-index: 500;
+	width: 75px;
+	text-align: center;
+	//box-shadow: rgba(0, 0, 0, 0.24706) 0px 0px 13px 2px;
+}
+.menu{
+	display:none;
+}
+.menu [class*="icons"]{
+	display:block;
+}
+.menu ul li{
+	margin-bottom:1px;
+}
+.menu a{
+	font-size:20px;
+	display:block;
+	padding: 24px 0;
+	background:rgba(255, 255, 255, 1);
+	color:#3A3A3A;
+	transition: color .2s;
+	-webkit-transition: color .2s;
+}
+.menu a:hover{
+	color:rgba(84, 145, 252, 1);
+}
+/*ul,ol{padding:0;margin:0 0 10px 25px;}*/

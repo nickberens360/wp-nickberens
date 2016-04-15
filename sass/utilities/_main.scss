@@ -1,0 +1,55 @@
+/* .main{
+	border:1px solid red;
+	.main-inner{
+		@extend .wrap;
+		border:1px solid green;
+	}
+}
+.main-content{
+	padding:$base;
+}
+
+.main__2col{
+	.main-content{
+		@include col($eight);
+	}
+	.main-aside{
+		@include col($four);
+		padding:$base/2;
+	}
+}
+
+.main__2col.main__right{
+	.main-content{
+		@include col($eight);
+		float:right;
+	}
+	.main-aside{
+		@include col($four);
+		float:right;
+	}
+}
+ */
+
+
+/*<section class="main main__2col main__right">
+	<div class="main-inner">
+		<div class="main-content">
+			Main Content
+		</div>
+		<aside class="main-aside">
+			Main Aside
+		</aside>
+	</div>
+</section>*/
+
+/*<section class="main main__2col">
+	<div class="main-inner">
+		<div class="main-content">
+			Main Content
+		</div>
+		<aside class="main-aside">
+			Main Aside
+		</aside>
+	</div>
+</section>*/

@@ -1,0 +1,49 @@
+.cntct-form h2{
+	font-size: 75px;
+	line-height: 1;
+	margin:0;
+}
+.cntct-form input[type="text"], .cntct-form input[type="email"]{
+	height:50px;
+	color:#fff;
+}
+.cntct-form textarea{
+	height:100px;
+	color:#fff;
+}
+.cntct-form textarea, .cntct-form input[type="text"], .cntct-form input[type="email"]{
+	border-radius:0;
+	width:100%;
+	padding:10px;
+	background: #616161;
+	border: none;
+	margin-bottom:0;
+	font-size: 20px;
+}
+.cntct-form #ty{
+	display:none;
+	color:#61b284;
+}
+.cntct-form .error { 
+	display: none; 
+	padding:10px; 
+	margin:0 0 5px 0;
+	color: #D8000C; 
+	font-size:12px;
+	background-color: #FFBABA;
+}
+.cntct-form .success { 
+	display: none; 
+	padding:10px; 
+	color: #044406; 
+	font-size:12px;
+	background-color: #B7FBB9;
+}
+@media (min-width: 518px){ 
+#contact_form{
+	max-width:500px;
+}
+.cntct-form  h2{
+	font-size: 157px;
+}
+}

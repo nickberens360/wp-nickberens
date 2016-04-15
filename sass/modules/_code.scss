@@ -1,0 +1,73 @@
+code.simple{
+	background:#D7D7D7;
+	padding:5px 10px;
+	border-radius:3px;
+	color: #696666;
+	font-size: 16px;
+}
+code.block{
+	display:block;
+}
+.syntaxhighlighter {    
+	padding: 30px !important;
+}
+.single .syntaxhighlighter .toolbar{
+	display:none !important;
+}
+
+
+.shadow{
+	box-shadow: rgba(0, 0, 0, 0.247059) 0px 13px 32px 5px;
+}
+
+
+
+.atomic{
+	background:#fff;
+	padding-left:20px;
+	padding-right:20px;
+}
+.atomicDemo{
+	max-width:600px;
+	display: block;
+	margin: auto;
+	margin-bottom: 40px;
+}
+.atomicSub{
+	font-size:18px;
+	margin-bottom: 40px;
+}
+.atomicLink{
+	color:#fff;
+	text-decoration: none;
+	padding:10px 20px;
+	display: inline-block;
+	background: #F95A66;
+	&:hover{
+		color:#fff;
+		text-decoration: none;
+	}
+	&:focus{
+		color:#fff;
+		text-decoration: none;
+	}
+	&:active{
+		color:#fff;
+		text-decoration: none;
+	}
+}
+
+
+
+
+span.wpcf7-not-valid-tip {
+    color: #F7BCBC !important;
+    font-size: 1em;
+    display: block;
+    border: none;
+    background: #C54343;
+}
+div.wpcf7-validation-errors {
+    display:none !important;
+}
+

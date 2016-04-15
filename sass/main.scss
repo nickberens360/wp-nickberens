@@ -1,0 +1,24 @@
+@import "bootstrap/bootstrap";
+@import "font";
+@import "variables";
+@import "utilities/utilities";
+@import "base";
+@import "layout";
+@import "nav/menu";
+@import "nav/arrows";
+@import "testimonials/test";
+@import "modules/modules";
+@import "layout/layout";
+@import "type";
+@import "animations";
+@import "helper";
+@import "syntax";
+
+div.wpcf7-mail-sent-ok {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+

@@ -1,0 +1,41 @@
+#work{
+	background:#8D8A8A;
+	background-image: url(../img/grey_wash_wall.png);
+	@media (max-width: 700px){
+      padding:100px 0;
+	}
+}
+/* .workGrid{
+	@extend .grid-row;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-top: 50px;
+	padding-bottom:50px;
+} */
+.workGrid__item{
+	@include col($four);
+	padding:10px;
+	img{
+		max-width:100%;
+	}
+	 @media (max-width: 700px){
+       @include col($six);
+       padding:10px;
+	}
+	@media only screen and ( max-width: 400px ){ 
+       @include col($twelve);
+	} 
+}
+
+/* 
+
+
+
+@media (max-height: 700px){
+	.work-grid{
+		margin-top:0;
+		padding-top:0;
+		padding-bottom:0;
+	}
+} */
+

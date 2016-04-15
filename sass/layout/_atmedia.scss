@@ -1,0 +1,63 @@
+.atomicNavLink{
+	img{
+		width:23px;
+	}
+}
+.atmedia{
+	//background:#EA3838;
+	//background: rgba(234, 56, 56, 0.75);
+	background: rgba(243, 31, 31, 0.64);
+	color:#fff;
+	.atomicSub {
+	    margin-bottom: 0;
+	}
+}
+.atmedia__heading{
+	color:#fff;
+	font-size:64px;
+	display: inline-block;
+	margin-bottom: 24px;
+	line-height: 1;
+	&:hover{
+		text-decoration: underline;
+	}
+}
+.amper{
+	font-size: 200px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1;
+    margin-bottom: 24px;
+    position: relative;
+}
+.atmediaLink{
+   font-weight:bold;
+   font-size: 24px;
+}
+@media only screen and ( max-width: 634px ){ 
+	.atmedia__heading {
+	    font-size: 44px;
+	    margin-bottom: 12px;
+	}
+	.amper {
+	    font-size: 170px;
+	    margin-bottom: 12px;
+	}
+}
+@media only screen and ( max-width: 412px ){ 
+	.atmedia{
+		.atomicSub {
+		    font-size: 16px;
+		    margin-bottom: 0;
+		}
+	}
+	.atmedia__heading {
+	    font-size: 36px;
+	    margin-bottom: 6px;
+	}
+	.amper {
+	    font-size: 170px;
+	    top:6px;
+	}
+
+}

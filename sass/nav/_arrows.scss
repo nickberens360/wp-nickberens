@@ -1,0 +1,52 @@
+.arrows{
+	position:absolute;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	color:rgba(255, 255, 255, 0.5);/*#66544c*/
+	font-size:40px;
+	width: 41px;
+	transition: all .25s;
+}
+.arrows.dark{
+	color: rgba(122, 121, 121, 0.5);
+}
+
+
+a.arrows.dark:hover {
+color: rgba(122, 121, 121, 1);
+
+}
+.down{
+	bottom:5px;
+}
+.up{
+	top:5px;
+}
+a.arrows:hover{
+	color:#fff;
+	border-bottom:none;
+}
+
+
+@media (min-width: 785px){ 
+.arrows{
+	font-size:60px;
+	width: 61px;
+}
+.down{
+	bottom:15px;
+}
+.up{
+	top:15px;
+}
+}
+@media (max-height: 700px){
+.arrows{
+	font-size:40px;
+	width: 41px;
+}
+
+}
+

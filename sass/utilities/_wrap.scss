@@ -1,0 +1,32 @@
+/* .wrap{
+	max-width:600px;
+	margin-right:auto;
+	margin-left:auto;
+	@extend %clearfix;
+}
+.wrap.full{
+	max-width:1000px;
+}
+@media (max-width: 700px){ 
+.wrap{
+	max-width:90%;
+}
+} */
+
+.wrap__small{
+	//max-width:600px;
+}
+
+/*@mixin wrap($width, $mwidth) {
+	max-width:$width;
+	margin-right:auto;
+	margin-left:auto;
+	@extend %clearfix;
+	@media (max-width: $width){ 
+		.wrap{
+			max-width:$mwidth;
+		}
+	}
+}*/
+
+/*@include wrap($width);*/

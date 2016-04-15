@@ -1,0 +1,52 @@
+.case .thumb img{
+	display:none;
+	box-shadow: rgba(0, 0, 0, 0.34) 0px 0px 22px 6px;
+	width:100%;
+}
+.case h1{
+	font-size:30px;
+	line-height:1.5;
+	color:white;
+	margin-bottom:20px;
+	margin-top:0;
+}
+.case p{
+	font-size:18px;
+	margin-bottom:30px;
+}
+.case p a{
+	color:white;
+	font-weight:bold;
+	border-bottom:2px solid;
+}
+.case ul{
+	margin-bottom:20px;
+}
+.case ul li{
+	//display:inline;
+	font-weight:bold;
+	font-size:20px;
+}
+.case .btns{
+	background: #fff;
+	color: #FF2F2F;
+	font-weight: bold;
+	padding: 15px 20px;
+	display: inline-block;
+}
+@media (min-width: 767px){ 
+.case .thumb img{
+	display:block;
+}
+}
+
+.case .redesign li{
+	display:block;
+	margin-bottom:13px;
+}
+.case .redesign li a{
+	color:#fff;
+	border-bottom:2px solid;
+}
+
+

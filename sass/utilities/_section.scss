@@ -1,0 +1,54 @@
+.section{
+	border:1px solid red;
+}
+.section-inner{
+	@extend .wrap;
+	border:1px solid green;
+}
+.section-content{
+	padding:$base 0;
+}
+.section-aside{
+	padding:$base 0;
+}
+
+.section__col2{
+	.section-content{
+		@include col($eight);
+	}
+	.section-aside{
+		@include col($four);
+	}	
+}
+
+/*.main{
+	background:#fff;
+	.main-inner{
+		@extend .wrap;
+	}
+}
+.main.main__color{
+	background:#ebebeb;
+}
+
+.main__2col{
+	.main-content{
+		@include col($eight);
+	}
+	.main-aside{
+		@include col($four);
+		padding:$base*4 0;
+	}
+}
+
+.main__2col.main__right{
+	.main-content{
+		@include col($eight);
+		float:right;
+	}
+	.main-aside{
+		@include col($four);
+		float:right;
+	}
+}
+*/

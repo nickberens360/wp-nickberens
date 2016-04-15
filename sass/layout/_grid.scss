@@ -1,0 +1,75 @@
+$gutter:3%;
+
+[class*='colspan-'] {
+  float: none;
+	left: auto;
+	margin-right:0;
+	width:100%;
+	margin-bottom:$gutter;
+}
+.grid-row{
+	margin-bottom:0;
+}
+.grid-row:last-of-type {
+	margin-bottom:0;
+}
+@media (min-width: 700px){ 
+.grid-row{
+	margin-bottom:$gutter;
+}
+[class*='colspan-'] {
+	position:relative;
+	left: $gutter / 2;
+ 	 float: left;
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+	margin-right:$gutter;
+	margin-bottom:0;
+}
+[class*='colspan-']:last-of-type {
+	margin-right:0;
+}
+.colspan-1{
+	width: 08.333333333% - $gutter;
+}
+.colspan-2{
+	width: 16.6666666667% - $gutter;
+}
+.colspan-3{
+	width: 25% - $gutter;
+}
+.colspan-4{
+	width: 33.3333333333% - $gutter;
+}
+.colspan-5{
+	width: 41.6666666667% - $gutter;
+}
+.colspan-6{
+	width: 50% - $gutter;
+}
+.colspan-7{
+	width: 58.3333333333% - $gutter;
+}
+.colspan-8{
+	width: 66.6666666667% - $gutter;
+}
+.colspan-9{
+	width: 75% - $gutter;
+}
+.colspan-10{
+	width: 83.3333333333% - $gutter;
+}
+.colspan-11{
+	width: 91.6666666667% - $gutter;
+}
+.colspan-12{
+	width: 100% - $gutter;
+}
+.grid-row:after{
+	content: "";
+  display: table;
+  clear: both;
+}
+}
+

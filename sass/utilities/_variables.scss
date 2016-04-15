@@ -1,0 +1,29 @@
+$brown: #884e16;
+$brown-light: #C0A97D;
+$red: red;
+$yellow: #e8ac00;
+
+$color1:#33ffff;
+
+
+$font2: 'Montserrat', sans-serif;
+
+@mixin padTB() {
+  padding:$base*2 0;
+}
+/*@include padTB();*/
+@mixin padLR() {
+  padding-left:$base;
+	padding-right:$base;
+}
+/*@include padLR();*/
+
+
+
+
+
+
+
+
+
+

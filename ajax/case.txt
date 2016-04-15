@@ -1,0 +1,239 @@
+<article id="first" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/cmfdl.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Children's Museum of Fond du Lac</h1>
+			<div class="summary">
+				<p>My first production Wordpress site. Lots of challenges, but I really enjoyed working with the framework.</p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3, </li>
+				<li>Wordpress, </li>
+				<li>jQuery</li>
+			</ul>
+			<a href="http://www.cmfdl.org/" class="btns" target="_blank">Visit Site</a> </div>
+	</div>
+</article>
+
+
+
+<article id="second" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="http://placehold.it/509x365"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Example Title</h1>
+			<div class="summary">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3, </li>
+				<li>Wordpress, </li>
+				<li>jQuery</li>
+			</ul>
+			<a href="#"  class="btns">Visit Site</a> </div>
+	</div>
+</article>
+
+<article id="third" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="http://placehold.it/509x365"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Example Title</h1>
+			<div class="summary">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3, </li>
+				<li>Wordpress, </li>
+				<li>jQuery</li>
+			</ul>
+			<a href="#" class="btns">Visit Site</a> </div>
+	</div>
+</article>
+
+<article id="fourth" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="http://placehold.it/509x365"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Example Title</h1>
+			<div class="summary">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3, </li>
+				<li>Wordpress, </li>
+				<li>jQuery</li>
+			</ul>
+			<a href="#" class="btns">Visit Site</a> </div>
+	</div>
+</article>
+
+<article id="fifth" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="http://placehold.it/509x365"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Example Title</h1>
+			<div class="summary">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3, </li>
+				<li>Wordpress, </li>
+				<li>jQuery</li>
+			</ul>
+			<a href="#" class="btns">Visit Site</a> </div>
+	</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article id="" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/clickinrich.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Clickinrich.com Landing Page</h1>
+			<div class="summary">
+				<p>Landing page for a side business I started with another classmate while attending Fox Valley Technical College.</p>
+			</div>
+			<ul class="skills">
+				<li>Design</li>
+			</ul>
+			<a href="#" class="btns" target="_blank">View Design</a> </div>
+	</div>
+</article>
+
+
+
+<article id="" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/wisnet.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>wisnet.com Design Concepts</h1>
+			<div class="summary">
+				<p>Various design comps for the wisnet.com re-design
+					<ul class="redesign">
+						<li><a href="../wisnet-test/47.html" target="_blank">Concept-1 (desktop view)</a></li>
+						<li><a href="../wisnet-test/47-mobile.html" target="_blank">Concept-1 (mobile view)</a></li>
+						<li><a href="../wisnet-test/white.html" target="_blank">Concept-2 (desktop view)</a></li>
+						<li><a href="../wisnet-test/white-mobile.html" target="_blank">Concept-2 (mobile view)</a></li>
+						<li><a href="../wisnet-test/new-team.html" target="_blank">Concept-3 (desktop view)</a></li>
+						<li><a href="../wisnet-test/new-team2.html" target="_blank">Concept-3 (mobile view)</a></li>
+					</ul>
+				</p>
+			</div>
+			<ul class="skills">
+				<li>Design</li>
+			</ul>
+	</div>
+</article>
+
+<article id="" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/wisnetlabs.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>wisnetLabs</h1>
+			<div class="summary">
+				<p>Design for an internal wisnet.com project.</p>
+			</div>
+			<ul class="skills">
+				<li>Design</li>
+			</ul>
+			<a href="#" class="btns" target="_blank">View Design</a> </div>
+	</div>
+</article>
+
+<article id="" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/budget.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Thompson Communications</h1>
+			<div class="summary">
+				<p>Concept for a Windows 8 app.</p>
+			</div>
+			<ul class="skills">
+				<li>Design</li>
+			</ul>
+			<a href="#" class="btns" target="_blank">View Design</a> </div>
+	</div>
+</article>
+
+<article id="" class="case wrap">
+	<div class="grid-row">
+		<div class="colspan-6">
+			<div class="thumb"> <img src="img/metro.jpg"> </div>
+		</div>
+		<div class="colspan-6">
+			<h1>Blog Hompage Concept</h1>
+			<div class="summary">
+				<p>My friend Paul Shepard and I have decided to try and tackle a Windows 8 application. This is the start of the homepage to our blog and homebase for the project. The page is built to respond to different browser sizes, and is imageless to speed up load time. The project never panned out, but I liked the homepage layout so I thought I'd include it.</p>
+			</div>
+			<ul class="skills">
+				<li>HTML5, </li>
+				<li>Responsive, </li>
+				<li>CSS3</li>
+			</ul>
+			<a href="#" class="btns" target="_blank">Visit Site</a> </div>
+	</div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

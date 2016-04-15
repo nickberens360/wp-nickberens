@@ -1,0 +1,15 @@
+.fullBoard{
+  display:table;
+  height:100%;
+  width: 100%;
+}
+.fullBoard__pin{
+	background: url(../img/bg.jpg);
+	background-size: cover;
+}
+.fullBoard-inner{
+  display:table-cell;
+  height:100%;
+  text-align: center;
+  vertical-align: middle;
+}

@@ -220,8 +220,8 @@ Template Name: Front page
 </div>
 		
 	</div>
+  <a href="http://www.nickberens.me/wp-content/uploads/2016/04/richardparker.jpg" class="catLink">Here's my cat.</a>
 </section>
-
 
 <?php get_footer(); ?>
 

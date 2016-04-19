@@ -113,8 +113,8 @@ Template Name: Front page
 		<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/logo.png"/>
 		<br/><br/>
 		<p class="atomicSub">Styleguide generator and sass partial manager.</p>
-		<img class="atomicDemo shadow" src="http://atomic-docs.io/img/demo1.gif"/>
-		<a href="http://atomic-docs.io/" class="atomicLink">Check it out!</a>
+		<img class="atomicDemo shadow" src="http://atomicdocs.io/img/demo1.gif"/>
+		<a href="http://atomicdocs.io/" class="atomicLink">Check it out!</a>
 
 	</div>
 	<a href="#atmedia" class="arrows down dark"><span aria-hidden="true" class="icons-arrow-down"></span></a> 	
